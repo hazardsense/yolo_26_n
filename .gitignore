@@ -1,3 +1,11 @@
+#the things i added
+datasets/
+models/
+outputs/
+runs/
+test_on_videos/
+*.mp4
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
